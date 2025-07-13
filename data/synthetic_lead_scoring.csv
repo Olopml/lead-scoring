@@ -1,0 +1,501 @@
+company_size,sector,country,website_visits,email,converted,email_domain
+655,SaaS,USA,47,user@company.com,1,company.com
+251,Finance,UK,47,user@gmail.com,1,gmail.com
+693,Real Estate,France,5,user@protonmail.com,0,protonmail.com
+433,SaaS,USA,5,user@outlook.com,0,outlook.com
+239,E-commerce,France,1,user@protonmail.com,0,protonmail.com
+204,Real Estate,India,44,user@protonmail.com,1,protonmail.com
+430,Finance,Spain,37,user@company.com,1,company.com
+829,SaaS,Brazil,10,user@yahoo.com,1,yahoo.com
+349,Education,UK,13,user@company.com,1,company.com
+105,SaaS,Spain,6,user@company.com,1,company.com
+868,Education,France,16,user@gmail.com,1,gmail.com
+748,Healthcare,France,7,user@yahoo.com,0,yahoo.com
+81,E-commerce,Germany,40,user@protonmail.com,1,protonmail.com
+907,Education,France,12,user@gmail.com,1,gmail.com
+47,Real Estate,UK,49,user@company.com,0,company.com
+82,Finance,Brazil,6,user@yahoo.com,1,yahoo.com
+285,Healthcare,India,23,user@outlook.com,1,outlook.com
+380,Education,UK,42,user@company.com,1,company.com
+719,Real Estate,India,4,user@protonmail.com,0,protonmail.com
+651,Finance,France,46,user@outlook.com,1,outlook.com
+168,Healthcare,Spain,17,user@protonmail.com,1,protonmail.com
+225,Real Estate,Germany,49,user@gmail.com,1,gmail.com
+235,SaaS,Brazil,20,user@yahoo.com,1,yahoo.com
+275,SaaS,UK,36,user@company.com,1,company.com
+218,Real Estate,Spain,25,user@yahoo.com,1,yahoo.com
+147,Education,UK,15,user@protonmail.com,1,protonmail.com
+552,Education,India,37,user@yahoo.com,1,yahoo.com
+920,E-commerce,Spain,23,user@outlook.com,1,outlook.com
+142,E-commerce,Spain,5,user@gmail.com,0,gmail.com
+882,SaaS,UK,40,user@outlook.com,1,outlook.com
+812,Real Estate,Spain,38,user@gmail.com,1,gmail.com
+395,Healthcare,France,29,user@protonmail.com,1,protonmail.com
+258,E-commerce,Brazil,0,user@gmail.com,0,gmail.com
+699,E-commerce,Brazil,17,user@company.com,1,company.com
+115,Education,Spain,10,user@yahoo.com,0,yahoo.com
+4,Real Estate,India,16,user@protonmail.com,0,protonmail.com
+781,Finance,France,6,user@company.com,1,company.com
+862,Real Estate,France,38,user@outlook.com,1,outlook.com
+157,Education,Brazil,10,user@protonmail.com,0,protonmail.com
+977,E-commerce,USA,38,user@company.com,1,company.com
+501,SaaS,USA,23,user@company.com,1,company.com
+246,SaaS,UK,36,user@gmail.com,1,gmail.com
+88,Real Estate,Spain,4,user@protonmail.com,0,protonmail.com
+785,Finance,UK,42,user@yahoo.com,1,yahoo.com
+970,E-commerce,UK,16,user@protonmail.com,1,protonmail.com
+894,E-commerce,Spain,13,user@protonmail.com,1,protonmail.com
+774,Real Estate,India,12,user@company.com,1,company.com
+409,Real Estate,India,23,user@yahoo.com,1,yahoo.com
+922,E-commerce,Spain,7,user@outlook.com,0,outlook.com
+231,SaaS,Germany,1,user@protonmail.com,0,protonmail.com
+568,Finance,France,14,user@gmail.com,1,gmail.com
+73,Real Estate,India,3,user@outlook.com,0,outlook.com
+70,SaaS,Brazil,21,user@gmail.com,1,gmail.com
+527,Finance,Germany,42,user@yahoo.com,1,yahoo.com
+220,E-commerce,UK,46,user@protonmail.com,1,protonmail.com
+591,Healthcare,UK,50,user@yahoo.com,1,yahoo.com
+827,Healthcare,UK,6,user@gmail.com,0,gmail.com
+675,Healthcare,Germany,27,user@yahoo.com,1,yahoo.com
+479,Real Estate,USA,43,user@gmail.com,1,gmail.com
+63,Healthcare,India,21,user@gmail.com,1,gmail.com
+255,Finance,UK,34,user@yahoo.com,1,yahoo.com
+144,Healthcare,UK,17,user@yahoo.com,1,yahoo.com
+256,SaaS,Spain,35,user@gmail.com,1,gmail.com
+52,Real Estate,France,0,user@gmail.com,0,gmail.com
+949,Finance,UK,26,user@yahoo.com,1,yahoo.com
+493,Finance,Brazil,25,user@gmail.com,1,gmail.com
+169,Healthcare,USA,24,user@company.com,1,company.com
+949,Healthcare,Germany,27,user@protonmail.com,1,protonmail.com
+678,Real Estate,Spain,9,user@outlook.com,0,outlook.com
+304,Finance,USA,37,user@protonmail.com,1,protonmail.com
+63,Real Estate,Germany,3,user@gmail.com,0,gmail.com
+599,Healthcare,France,33,user@outlook.com,1,outlook.com
+59,E-commerce,USA,11,user@gmail.com,1,gmail.com
+610,SaaS,India,15,user@yahoo.com,1,yahoo.com
+123,E-commerce,UK,37,user@protonmail.com,1,protonmail.com
+41,E-commerce,USA,26,user@protonmail.com,0,protonmail.com
+579,E-commerce,Germany,16,user@outlook.com,1,outlook.com
+686,Real Estate,Germany,15,user@company.com,1,company.com
+406,Finance,India,41,user@company.com,1,company.com
+469,Education,Brazil,4,user@gmail.com,0,gmail.com
+470,E-commerce,France,6,user@gmail.com,0,gmail.com
+551,Finance,France,16,user@outlook.com,1,outlook.com
+956,Education,USA,15,user@company.com,1,company.com
+292,Finance,Spain,34,user@company.com,1,company.com
+627,Real Estate,France,0,user@protonmail.com,0,protonmail.com
+307,Real Estate,USA,8,user@company.com,0,company.com
+119,SaaS,India,35,user@outlook.com,1,outlook.com
+279,Education,France,13,user@company.com,1,company.com
+209,Real Estate,India,16,user@protonmail.com,1,protonmail.com
+501,Education,Brazil,3,user@gmail.com,0,gmail.com
+650,Healthcare,Brazil,17,user@gmail.com,1,gmail.com
+4,Education,Brazil,8,user@company.com,0,company.com
+166,Real Estate,Spain,35,user@yahoo.com,1,yahoo.com
+575,SaaS,USA,4,user@outlook.com,0,outlook.com
+559,SaaS,Brazil,23,user@protonmail.com,1,protonmail.com
+566,Finance,Spain,8,user@gmail.com,1,gmail.com
+316,Education,Brazil,2,user@company.com,0,company.com
+216,Real Estate,UK,42,user@gmail.com,1,gmail.com
+363,E-commerce,Brazil,26,user@protonmail.com,1,protonmail.com
+768,Finance,UK,10,user@outlook.com,1,outlook.com
+903,Healthcare,USA,11,user@company.com,1,company.com
+802,Healthcare,Brazil,42,user@outlook.com,1,outlook.com
+274,Finance,Brazil,44,user@gmail.com,1,gmail.com
+392,SaaS,Brazil,30,user@outlook.com,1,outlook.com
+205,Healthcare,Germany,19,user@outlook.com,1,outlook.com
+229,SaaS,India,12,user@yahoo.com,1,yahoo.com
+337,Education,Brazil,4,user@company.com,0,company.com
+360,Real Estate,France,25,user@protonmail.com,1,protonmail.com
+340,SaaS,USA,16,user@outlook.com,1,outlook.com
+595,Education,USA,6,user@protonmail.com,0,protonmail.com
+445,Education,India,50,user@company.com,1,company.com
+447,E-commerce,France,7,user@yahoo.com,0,yahoo.com
+922,E-commerce,UK,16,user@gmail.com,1,gmail.com
+726,Healthcare,USA,33,user@protonmail.com,1,protonmail.com
+704,Real Estate,India,47,user@outlook.com,1,outlook.com
+373,Healthcare,USA,42,user@company.com,1,company.com
+639,Education,India,7,user@company.com,0,company.com
+520,Education,India,26,user@company.com,1,company.com
+413,Real Estate,Germany,35,user@outlook.com,1,outlook.com
+197,Healthcare,India,24,user@outlook.com,1,outlook.com
+631,E-commerce,Germany,25,user@protonmail.com,1,protonmail.com
+854,SaaS,Germany,18,user@outlook.com,1,outlook.com
+441,E-commerce,France,41,user@company.com,1,company.com
+477,Healthcare,Spain,43,user@outlook.com,1,outlook.com
+524,Healthcare,Brazil,50,user@outlook.com,1,outlook.com
+675,SaaS,Germany,32,user@protonmail.com,1,protonmail.com
+344,SaaS,Brazil,48,user@outlook.com,1,outlook.com
+689,Education,UK,12,user@outlook.com,1,outlook.com
+26,SaaS,UK,30,user@protonmail.com,1,protonmail.com
+871,SaaS,Spain,26,user@protonmail.com,1,protonmail.com
+200,Real Estate,India,24,user@yahoo.com,1,yahoo.com
+410,Finance,UK,41,user@gmail.com,1,gmail.com
+915,SaaS,Brazil,27,user@outlook.com,1,outlook.com
+181,Real Estate,France,29,user@gmail.com,1,gmail.com
+571,Finance,Brazil,7,user@yahoo.com,1,yahoo.com
+137,Healthcare,India,33,user@protonmail.com,1,protonmail.com
+610,Education,Brazil,28,user@protonmail.com,1,protonmail.com
+835,Real Estate,France,27,user@protonmail.com,1,protonmail.com
+457,Finance,India,30,user@yahoo.com,1,yahoo.com
+266,Finance,Brazil,40,user@company.com,1,company.com
+785,E-commerce,Spain,40,user@outlook.com,1,outlook.com
+282,Healthcare,USA,45,user@company.com,1,company.com
+241,Education,Germany,20,user@protonmail.com,1,protonmail.com
+83,Finance,UK,14,user@yahoo.com,1,yahoo.com
+711,Finance,India,13,user@gmail.com,1,gmail.com
+425,Healthcare,Germany,34,user@yahoo.com,1,yahoo.com
+426,SaaS,UK,26,user@yahoo.com,1,yahoo.com
+927,E-commerce,India,1,user@protonmail.com,0,protonmail.com
+390,Healthcare,USA,22,user@company.com,1,company.com
+772,Healthcare,Brazil,26,user@protonmail.com,1,protonmail.com
+766,Real Estate,France,38,user@outlook.com,1,outlook.com
+500,Finance,Germany,27,user@yahoo.com,1,yahoo.com
+30,Healthcare,Germany,42,user@yahoo.com,0,yahoo.com
+742,Finance,Brazil,29,user@outlook.com,1,outlook.com
+638,E-commerce,USA,25,user@protonmail.com,1,protonmail.com
+578,Real Estate,USA,5,user@yahoo.com,0,yahoo.com
+139,Healthcare,UK,3,user@company.com,0,company.com
+389,Education,UK,29,user@company.com,1,company.com
+346,Healthcare,Germany,48,user@yahoo.com,1,yahoo.com
+259,SaaS,Spain,1,user@protonmail.com,0,protonmail.com
+54,Education,UK,41,user@gmail.com,1,gmail.com
+800,Real Estate,USA,48,user@gmail.com,1,gmail.com
+973,Finance,UK,1,user@protonmail.com,0,protonmail.com
+157,Finance,UK,30,user@gmail.com,1,gmail.com
+578,Finance,Spain,44,user@company.com,1,company.com
+786,Education,UK,38,user@protonmail.com,1,protonmail.com
+987,Real Estate,India,7,user@outlook.com,0,outlook.com
+988,Education,USA,37,user@gmail.com,1,gmail.com
+952,Education,France,43,user@yahoo.com,1,yahoo.com
+407,Real Estate,UK,4,user@protonmail.com,0,protonmail.com
+708,Real Estate,UK,6,user@company.com,0,company.com
+871,Real Estate,France,7,user@protonmail.com,0,protonmail.com
+802,SaaS,Germany,34,user@yahoo.com,1,yahoo.com
+678,Education,USA,32,user@company.com,1,company.com
+13,Healthcare,Brazil,31,user@gmail.com,0,gmail.com
+444,Education,India,29,user@outlook.com,1,outlook.com
+446,Finance,India,33,user@company.com,1,company.com
+631,E-commerce,Brazil,30,user@yahoo.com,1,yahoo.com
+447,Real Estate,France,17,user@company.com,1,company.com
+873,Finance,Brazil,5,user@company.com,0,company.com
+903,Healthcare,UK,48,user@yahoo.com,1,yahoo.com
+584,E-commerce,India,24,user@company.com,1,company.com
+30,Healthcare,Brazil,20,user@outlook.com,0,outlook.com
+500,Finance,Germany,16,user@company.com,1,company.com
+287,E-commerce,India,17,user@protonmail.com,1,protonmail.com
+11,E-commerce,UK,5,user@outlook.com,0,outlook.com
+738,Healthcare,Spain,35,user@outlook.com,1,outlook.com
+708,Healthcare,India,45,user@yahoo.com,1,yahoo.com
+459,SaaS,USA,18,user@outlook.com,1,outlook.com
+415,Real Estate,UK,19,user@protonmail.com,1,protonmail.com
+378,Healthcare,France,33,user@company.com,1,company.com
+436,Real Estate,France,21,user@company.com,1,company.com
+720,Healthcare,Germany,19,user@company.com,1,company.com
+237,SaaS,India,12,user@company.com,1,company.com
+123,Real Estate,France,48,user@outlook.com,1,outlook.com
+197,Finance,India,30,user@company.com,1,company.com
+742,E-commerce,Brazil,33,user@protonmail.com,1,protonmail.com
+290,SaaS,Brazil,12,user@company.com,1,company.com
+233,Education,UK,19,user@gmail.com,1,gmail.com
+726,E-commerce,UK,17,user@gmail.com,1,gmail.com
+998,SaaS,France,18,user@outlook.com,1,outlook.com
+654,Healthcare,USA,0,user@protonmail.com,0,protonmail.com
+292,Healthcare,Spain,28,user@company.com,1,company.com
+189,SaaS,Germany,30,user@gmail.com,1,gmail.com
+842,SaaS,Spain,31,user@gmail.com,1,gmail.com
+591,Real Estate,India,3,user@outlook.com,0,outlook.com
+153,E-commerce,Germany,5,user@outlook.com,0,outlook.com
+122,E-commerce,Brazil,26,user@protonmail.com,1,protonmail.com
+611,E-commerce,UK,49,user@protonmail.com,1,protonmail.com
+390,Healthcare,Spain,19,user@protonmail.com,1,protonmail.com
+440,Education,France,39,user@gmail.com,1,gmail.com
+625,Real Estate,USA,48,user@outlook.com,1,outlook.com
+641,Finance,Germany,42,user@gmail.com,1,gmail.com
+161,Finance,UK,35,user@gmail.com,1,gmail.com
+161,SaaS,Spain,28,user@protonmail.com,1,protonmail.com
+482,Education,USA,14,user@company.com,1,company.com
+724,Education,India,29,user@gmail.com,1,gmail.com
+704,Finance,Germany,50,user@protonmail.com,1,protonmail.com
+678,Finance,Spain,7,user@protonmail.com,1,protonmail.com
+231,Real Estate,UK,17,user@outlook.com,1,outlook.com
+74,SaaS,UK,50,user@company.com,1,company.com
+610,Real Estate,Brazil,36,user@company.com,1,company.com
+450,SaaS,Spain,44,user@company.com,1,company.com
+717,Healthcare,Germany,32,user@protonmail.com,1,protonmail.com
+506,Healthcare,USA,38,user@gmail.com,1,gmail.com
+911,Healthcare,India,20,user@protonmail.com,1,protonmail.com
+257,SaaS,USA,14,user@protonmail.com,1,protonmail.com
+602,SaaS,Brazil,43,user@company.com,1,company.com
+591,SaaS,Brazil,48,user@outlook.com,1,outlook.com
+482,E-commerce,India,28,user@company.com,1,company.com
+186,E-commerce,Spain,40,user@yahoo.com,1,yahoo.com
+993,SaaS,Spain,22,user@yahoo.com,1,yahoo.com
+342,Education,India,6,user@outlook.com,0,outlook.com
+338,Healthcare,India,31,user@company.com,1,company.com
+679,Healthcare,Brazil,48,user@protonmail.com,1,protonmail.com
+38,Healthcare,USA,20,user@company.com,0,company.com
+332,SaaS,Brazil,25,user@protonmail.com,1,protonmail.com
+845,SaaS,India,34,user@yahoo.com,1,yahoo.com
+424,SaaS,UK,33,user@company.com,1,company.com
+638,Healthcare,India,28,user@gmail.com,1,gmail.com
+209,Education,France,8,user@company.com,0,company.com
+449,Real Estate,Spain,7,user@gmail.com,0,gmail.com
+997,Real Estate,France,15,user@outlook.com,1,outlook.com
+319,E-commerce,USA,35,user@yahoo.com,1,yahoo.com
+96,Finance,Brazil,7,user@yahoo.com,1,yahoo.com
+970,SaaS,India,9,user@yahoo.com,1,yahoo.com
+956,Real Estate,Germany,32,user@company.com,1,company.com
+426,Healthcare,Spain,15,user@yahoo.com,1,yahoo.com
+565,Finance,Spain,12,user@protonmail.com,1,protonmail.com
+521,Real Estate,UK,4,user@company.com,0,company.com
+792,Healthcare,Germany,50,user@protonmail.com,1,protonmail.com
+274,SaaS,Germany,46,user@company.com,1,company.com
+858,E-commerce,France,42,user@yahoo.com,1,yahoo.com
+887,Finance,Spain,34,user@yahoo.com,1,yahoo.com
+354,Education,France,48,user@protonmail.com,1,protonmail.com
+387,Healthcare,Germany,12,user@outlook.com,1,outlook.com
+586,Healthcare,UK,49,user@yahoo.com,1,yahoo.com
+45,Education,India,30,user@yahoo.com,0,yahoo.com
+396,Real Estate,Brazil,41,user@outlook.com,1,outlook.com
+508,SaaS,UK,32,user@protonmail.com,1,protonmail.com
+340,SaaS,Brazil,28,user@gmail.com,1,gmail.com
+539,Healthcare,USA,46,user@outlook.com,1,outlook.com
+420,Real Estate,UK,4,user@yahoo.com,0,yahoo.com
+801,Education,Germany,39,user@yahoo.com,1,yahoo.com
+666,SaaS,Brazil,21,user@protonmail.com,1,protonmail.com
+390,Education,India,45,user@yahoo.com,1,yahoo.com
+894,E-commerce,USA,39,user@gmail.com,1,gmail.com
+241,Real Estate,India,18,user@outlook.com,1,outlook.com
+765,SaaS,Spain,6,user@gmail.com,1,gmail.com
+455,Finance,India,19,user@gmail.com,1,gmail.com
+48,Education,Brazil,3,user@company.com,0,company.com
+368,Education,Spain,9,user@outlook.com,0,outlook.com
+544,Healthcare,France,43,user@outlook.com,1,outlook.com
+175,Finance,USA,39,user@yahoo.com,1,yahoo.com
+635,Real Estate,UK,31,user@protonmail.com,1,protonmail.com
+147,Finance,Spain,40,user@company.com,1,company.com
+471,Education,India,0,user@yahoo.com,0,yahoo.com
+923,Education,India,34,user@outlook.com,1,outlook.com
+76,Healthcare,Germany,37,user@company.com,1,company.com
+655,Healthcare,India,16,user@yahoo.com,1,yahoo.com
+866,Education,UK,24,user@yahoo.com,1,yahoo.com
+110,Finance,Spain,36,user@company.com,1,company.com
+589,Education,India,18,user@gmail.com,1,gmail.com
+850,Real Estate,Spain,17,user@gmail.com,1,gmail.com
+580,Real Estate,Brazil,47,user@gmail.com,1,gmail.com
+933,E-commerce,India,31,user@company.com,1,company.com
+795,Finance,France,22,user@outlook.com,1,outlook.com
+652,Finance,France,16,user@outlook.com,1,outlook.com
+644,SaaS,India,41,user@gmail.com,1,gmail.com
+317,Healthcare,USA,37,user@company.com,1,company.com
+750,Finance,USA,18,user@company.com,1,company.com
+766,Healthcare,UK,12,user@outlook.com,1,outlook.com
+806,E-commerce,Germany,33,user@protonmail.com,1,protonmail.com
+936,Education,Brazil,10,user@company.com,0,company.com
+936,Healthcare,Brazil,18,user@company.com,1,company.com
+824,SaaS,Spain,4,user@outlook.com,0,outlook.com
+773,Finance,Brazil,43,user@yahoo.com,1,yahoo.com
+991,E-commerce,Germany,5,user@yahoo.com,0,yahoo.com
+15,Education,France,7,user@yahoo.com,0,yahoo.com
+378,Real Estate,India,43,user@company.com,1,company.com
+599,Healthcare,Brazil,40,user@company.com,1,company.com
+111,Real Estate,UK,30,user@gmail.com,1,gmail.com
+635,E-commerce,Germany,39,user@outlook.com,1,outlook.com
+664,SaaS,India,29,user@company.com,1,company.com
+665,Healthcare,USA,8,user@gmail.com,0,gmail.com
+969,SaaS,Germany,31,user@gmail.com,1,gmail.com
+100,Finance,France,8,user@yahoo.com,1,yahoo.com
+465,Education,India,47,user@protonmail.com,1,protonmail.com
+430,E-commerce,India,46,user@outlook.com,1,outlook.com
+907,Healthcare,India,6,user@yahoo.com,0,yahoo.com
+631,Healthcare,Germany,2,user@company.com,0,company.com
+223,Healthcare,Spain,15,user@company.com,1,company.com
+102,Real Estate,Germany,34,user@company.com,1,company.com
+63,Healthcare,Germany,12,user@gmail.com,1,gmail.com
+972,Healthcare,USA,42,user@outlook.com,1,outlook.com
+658,Real Estate,France,1,user@gmail.com,0,gmail.com
+806,Education,UK,8,user@protonmail.com,0,protonmail.com
+211,SaaS,Brazil,48,user@protonmail.com,1,protonmail.com
+213,E-commerce,UK,14,user@company.com,1,company.com
+793,Finance,Brazil,38,user@gmail.com,1,gmail.com
+284,Finance,UK,34,user@company.com,1,company.com
+818,Finance,USA,42,user@gmail.com,1,gmail.com
+135,SaaS,Germany,50,user@outlook.com,1,outlook.com
+603,Education,USA,11,user@company.com,1,company.com
+54,Finance,India,26,user@protonmail.com,1,protonmail.com
+117,Real Estate,USA,30,user@yahoo.com,1,yahoo.com
+797,Education,France,37,user@gmail.com,1,gmail.com
+463,E-commerce,UK,39,user@gmail.com,1,gmail.com
+745,Real Estate,France,19,user@yahoo.com,1,yahoo.com
+659,SaaS,USA,30,user@yahoo.com,1,yahoo.com
+437,Real Estate,USA,31,user@yahoo.com,1,yahoo.com
+76,SaaS,Germany,38,user@outlook.com,1,outlook.com
+68,Finance,Germany,39,user@protonmail.com,1,protonmail.com
+562,Real Estate,Germany,24,user@protonmail.com,1,protonmail.com
+544,Education,Spain,32,user@protonmail.com,1,protonmail.com
+441,SaaS,Brazil,44,user@gmail.com,1,gmail.com
+874,Real Estate,India,49,user@protonmail.com,1,protonmail.com
+739,Finance,Spain,28,user@outlook.com,1,outlook.com
+424,Education,Brazil,29,user@yahoo.com,1,yahoo.com
+426,Real Estate,USA,20,user@yahoo.com,1,yahoo.com
+321,Real Estate,Germany,23,user@outlook.com,1,outlook.com
+704,Healthcare,USA,5,user@gmail.com,0,gmail.com
+96,Healthcare,USA,47,user@company.com,1,company.com
+832,Finance,France,3,user@protonmail.com,0,protonmail.com
+980,E-commerce,France,21,user@gmail.com,1,gmail.com
+421,Education,Brazil,42,user@yahoo.com,1,yahoo.com
+889,Real Estate,USA,18,user@protonmail.com,1,protonmail.com
+320,Education,USA,36,user@protonmail.com,1,protonmail.com
+218,Finance,India,30,user@outlook.com,1,outlook.com
+868,SaaS,Germany,35,user@company.com,1,company.com
+118,Education,France,14,user@yahoo.com,1,yahoo.com
+866,E-commerce,Brazil,39,user@protonmail.com,1,protonmail.com
+692,Real Estate,France,1,user@protonmail.com,0,protonmail.com
+952,Real Estate,Brazil,44,user@company.com,1,company.com
+30,Finance,Germany,44,user@company.com,1,company.com
+944,Education,Germany,0,user@outlook.com,0,outlook.com
+891,Finance,France,42,user@yahoo.com,1,yahoo.com
+72,Finance,India,40,user@gmail.com,1,gmail.com
+94,Real Estate,France,13,user@yahoo.com,1,yahoo.com
+430,Healthcare,Germany,10,user@company.com,0,company.com
+320,Real Estate,Germany,49,user@protonmail.com,1,protonmail.com
+611,SaaS,USA,9,user@outlook.com,1,outlook.com
+773,E-commerce,USA,43,user@gmail.com,1,gmail.com
+279,Healthcare,India,27,user@yahoo.com,1,yahoo.com
+622,Healthcare,Spain,17,user@outlook.com,1,outlook.com
+774,E-commerce,USA,22,user@yahoo.com,1,yahoo.com
+114,Education,India,43,user@protonmail.com,1,protonmail.com
+499,E-commerce,India,19,user@gmail.com,1,gmail.com
+226,Healthcare,France,3,user@gmail.com,0,gmail.com
+210,Education,UK,49,user@outlook.com,1,outlook.com
+783,Education,Germany,20,user@gmail.com,1,gmail.com
+8,Healthcare,India,27,user@outlook.com,0,outlook.com
+133,Healthcare,France,45,user@outlook.com,1,outlook.com
+513,E-commerce,Brazil,42,user@company.com,1,company.com
+74,Healthcare,Brazil,47,user@gmail.com,1,gmail.com
+447,SaaS,Spain,4,user@company.com,0,company.com
+590,Healthcare,France,25,user@yahoo.com,1,yahoo.com
+297,SaaS,Spain,1,user@company.com,0,company.com
+176,E-commerce,Spain,44,user@company.com,1,company.com
+91,Healthcare,Brazil,6,user@outlook.com,0,outlook.com
+447,E-commerce,Spain,33,user@gmail.com,1,gmail.com
+406,Education,India,21,user@outlook.com,1,outlook.com
+342,Finance,USA,32,user@gmail.com,1,gmail.com
+544,E-commerce,UK,49,user@company.com,1,company.com
+360,Real Estate,Brazil,41,user@outlook.com,1,outlook.com
+242,SaaS,UK,16,user@outlook.com,1,outlook.com
+178,E-commerce,UK,48,user@gmail.com,1,gmail.com
+182,Real Estate,Spain,29,user@protonmail.com,1,protonmail.com
+779,E-commerce,Spain,43,user@protonmail.com,1,protonmail.com
+659,Real Estate,France,20,user@company.com,1,company.com
+155,Healthcare,USA,30,user@yahoo.com,1,yahoo.com
+647,Education,Brazil,17,user@protonmail.com,1,protonmail.com
+58,Education,France,4,user@company.com,0,company.com
+473,Healthcare,USA,3,user@company.com,0,company.com
+852,Education,USA,41,user@gmail.com,1,gmail.com
+630,E-commerce,France,24,user@yahoo.com,1,yahoo.com
+595,E-commerce,Brazil,47,user@gmail.com,1,gmail.com
+461,E-commerce,India,12,user@company.com,1,company.com
+620,Healthcare,France,9,user@gmail.com,0,gmail.com
+462,SaaS,Brazil,21,user@gmail.com,1,gmail.com
+517,Real Estate,UK,2,user@outlook.com,0,outlook.com
+725,Healthcare,Spain,33,user@protonmail.com,1,protonmail.com
+625,Finance,Germany,23,user@company.com,1,company.com
+397,Healthcare,Brazil,21,user@protonmail.com,1,protonmail.com
+54,Real Estate,India,21,user@gmail.com,1,gmail.com
+338,SaaS,France,43,user@yahoo.com,1,yahoo.com
+291,Education,India,42,user@protonmail.com,1,protonmail.com
+895,Finance,Germany,5,user@protonmail.com,0,protonmail.com
+680,Finance,Germany,19,user@yahoo.com,1,yahoo.com
+133,E-commerce,India,5,user@company.com,0,company.com
+573,Healthcare,India,50,user@company.com,1,company.com
+833,Finance,India,44,user@protonmail.com,1,protonmail.com
+96,Real Estate,India,27,user@protonmail.com,1,protonmail.com
+371,SaaS,Germany,19,user@outlook.com,1,outlook.com
+974,Finance,Germany,49,user@yahoo.com,1,yahoo.com
+197,Finance,UK,9,user@gmail.com,1,gmail.com
+303,SaaS,France,49,user@protonmail.com,1,protonmail.com
+856,Real Estate,France,2,user@company.com,0,company.com
+898,E-commerce,UK,38,user@yahoo.com,1,yahoo.com
+158,Finance,UK,44,user@protonmail.com,1,protonmail.com
+829,Finance,India,28,user@gmail.com,1,gmail.com
+421,Education,India,46,user@outlook.com,1,outlook.com
+993,Healthcare,France,18,user@yahoo.com,1,yahoo.com
+240,E-commerce,UK,19,user@yahoo.com,1,yahoo.com
+926,Finance,Germany,43,user@protonmail.com,1,protonmail.com
+452,Healthcare,Brazil,18,user@yahoo.com,1,yahoo.com
+515,E-commerce,Spain,10,user@outlook.com,0,outlook.com
+821,E-commerce,UK,16,user@gmail.com,1,gmail.com
+657,Healthcare,Brazil,23,user@protonmail.com,1,protonmail.com
+957,SaaS,India,33,user@gmail.com,1,gmail.com
+292,SaaS,Brazil,10,user@company.com,1,company.com
+461,E-commerce,UK,27,user@gmail.com,1,gmail.com
+970,Finance,Brazil,28,user@company.com,1,company.com
+953,SaaS,Spain,3,user@yahoo.com,0,yahoo.com
+515,Education,UK,24,user@gmail.com,1,gmail.com
+384,Finance,USA,20,user@gmail.com,1,gmail.com
+860,Real Estate,India,21,user@outlook.com,1,outlook.com
+141,SaaS,Germany,30,user@outlook.com,1,outlook.com
+778,Real Estate,Spain,28,user@protonmail.com,1,protonmail.com
+6,SaaS,USA,16,user@outlook.com,1,outlook.com
+856,Finance,France,46,user@protonmail.com,1,protonmail.com
+541,Healthcare,USA,49,user@company.com,1,company.com
+244,Education,USA,3,user@outlook.com,0,outlook.com
+430,Real Estate,Brazil,39,user@yahoo.com,1,yahoo.com
+65,SaaS,Brazil,31,user@protonmail.com,1,protonmail.com
+549,SaaS,India,32,user@protonmail.com,1,protonmail.com
+248,Real Estate,UK,18,user@yahoo.com,1,yahoo.com
+2,E-commerce,Germany,15,user@protonmail.com,0,protonmail.com
+427,Finance,India,42,user@gmail.com,1,gmail.com
+537,Education,USA,33,user@protonmail.com,1,protonmail.com
+520,E-commerce,France,1,user@yahoo.com,0,yahoo.com
+895,Healthcare,USA,40,user@yahoo.com,1,yahoo.com
+383,Education,India,1,user@company.com,0,company.com
+808,SaaS,Germany,15,user@gmail.com,1,gmail.com
+791,E-commerce,India,48,user@company.com,1,company.com
+137,SaaS,Germany,34,user@company.com,1,company.com
+834,Real Estate,UK,49,user@yahoo.com,1,yahoo.com
+713,Healthcare,India,11,user@outlook.com,1,outlook.com
+65,Real Estate,Brazil,29,user@gmail.com,1,gmail.com
+301,Finance,USA,50,user@outlook.com,1,outlook.com
+908,SaaS,Germany,19,user@protonmail.com,1,protonmail.com
+408,E-commerce,Spain,16,user@gmail.com,1,gmail.com
+772,Real Estate,UK,18,user@company.com,1,company.com
+883,SaaS,Brazil,41,user@company.com,1,company.com
+280,SaaS,Brazil,23,user@yahoo.com,1,yahoo.com
+911,Healthcare,India,28,user@yahoo.com,1,yahoo.com
+348,Finance,Spain,44,user@yahoo.com,1,yahoo.com
+377,E-commerce,Germany,5,user@yahoo.com,0,yahoo.com
+81,Healthcare,France,11,user@protonmail.com,1,protonmail.com
+301,Education,USA,5,user@company.com,0,company.com
+677,Education,Germany,28,user@protonmail.com,1,protonmail.com
+735,Healthcare,UK,44,user@yahoo.com,1,yahoo.com
+360,Healthcare,USA,46,user@company.com,1,company.com
+630,Healthcare,Germany,40,user@gmail.com,1,gmail.com
+77,Real Estate,India,25,user@company.com,1,company.com
+526,Real Estate,India,10,user@gmail.com,0,gmail.com
+147,E-commerce,India,50,user@yahoo.com,1,yahoo.com
+36,Finance,USA,15,user@company.com,1,company.com
+371,Healthcare,France,2,user@protonmail.com,0,protonmail.com
+158,Real Estate,Spain,23,user@company.com,1,company.com
+455,SaaS,France,8,user@protonmail.com,1,protonmail.com
+376,Healthcare,Germany,41,user@company.com,1,company.com
+256,SaaS,USA,47,user@outlook.com,1,outlook.com
+512,E-commerce,Spain,35,user@gmail.com,1,gmail.com
+269,Education,India,28,user@outlook.com,1,outlook.com
+627,Education,India,31,user@outlook.com,1,outlook.com
+126,Finance,Brazil,4,user@yahoo.com,0,yahoo.com
+177,Real Estate,Spain,5,user@company.com,0,company.com
+684,Education,India,4,user@protonmail.com,0,protonmail.com
+556,Education,Germany,10,user@outlook.com,0,outlook.com
+813,Education,France,14,user@gmail.com,1,gmail.com
+206,Finance,UK,50,user@yahoo.com,1,yahoo.com
+27,Education,France,36,user@company.com,0,company.com
+479,E-commerce,UK,39,user@gmail.com,1,gmail.com
+68,Education,Spain,45,user@yahoo.com,1,yahoo.com
+539,Healthcare,Brazil,26,user@protonmail.com,1,protonmail.com
+76,Finance,Germany,41,user@gmail.com,1,gmail.com
+461,Healthcare,India,33,user@company.com,1,company.com
+132,E-commerce,India,37,user@outlook.com,1,outlook.com
+787,Finance,Spain,32,user@gmail.com,1,gmail.com
