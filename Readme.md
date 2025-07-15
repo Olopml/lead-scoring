@@ -11,6 +11,11 @@ This project provides an API to score and predict B2B lead conversion based on c
 - **scikit-learn** – For training the machine learning pipeline
 - **Joblib** – For model serialization
 
+
+## 📬 Deploy Test
+Use for free at: [Lead Scoring Live Deploy](https://lead-scoring-k5uk.onrender.com/docs)
+
+
 ## 🛠️ Example Input
 ```json
 {
@@ -59,6 +64,7 @@ docker run -p 8000:8000 lead-scoring-api
 
 ## 📬 Endpoint
 `POST /predict` – Returns the lead score and conversion prediction.
+
 
 ---
 © 2025 · Made by [Olopml](https://github.com/Olopml)
